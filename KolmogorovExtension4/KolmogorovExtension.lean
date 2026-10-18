@@ -9,6 +9,7 @@ public import KolmogorovExtension4.RegularContent
 public import Mathlib.MeasureTheory.Constructions.ProjectiveFamilyContent
 public import Mathlib.MeasureTheory.Measure.RegularityCompacts
 public import Mathlib.MeasureTheory.OuterMeasure.OfAddContent
+public import Mathlib.Topology.MetricSpace.Polish
 
 @[expose] public section
 
